@@ -23,7 +23,9 @@ property-valuation-project/
 ├── data/ 
 │ ├── train.csv
 │ └── test.csv
-├── logs/ 
+├── logs/
+│ ├── api_logs.log
+│ └── pipeline.log
 ├── model/
 │ └── model_pipeline.pkl
 ├── src/ 

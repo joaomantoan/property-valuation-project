@@ -5,7 +5,7 @@ data/*.csv
 .env
 
 # Model files
-model/*.pkl
+*.pkl
 
 # Python cache and virtual environments
 __pycache__/
@@ -15,4 +15,4 @@ __pycache__/
 
 
 # Logs
-logs/*.log
+*.log

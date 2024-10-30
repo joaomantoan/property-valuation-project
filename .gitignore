@@ -1,0 +1,18 @@
+# Data files
+data/*.csv
+
+# Environment and sensitive files
+.env
+
+# Model files
+model/*.pkl
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+
+# Logs
+logs/*.log

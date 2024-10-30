@@ -8,8 +8,9 @@ This project provides a machine learning model and API for property valuation ba
 3. [Installation and Setup](#installation-and-setup)
 4. [Running the API](#running-the-api)
 5. [Making Predictions](#making-predictions)
-6. [Logging](#logging)
-7. [Assumptions](#assumptions)
+6. [Running With Docker](#running-with-docker)
+7. [Logging](#logging)
+8. [Assumptions](#assumptions)
 
 ## Project Overview
 
